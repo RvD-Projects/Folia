@@ -1,4 +1,4 @@
-./gradlew applyPatches
-./gradlew build
-./gradlew createMojmapPaperclipJar
-./gradlew rebuildpatches
+gradlew applyPatches
+gradlew createMojmapPaperclipJar
+gradlew build
+gradlew rebuildpatches
