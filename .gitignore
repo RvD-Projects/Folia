@@ -52,3 +52,4 @@ Folia-API
 !gradle/wrapper/gradle-wrapper.jar
 
 .history/
+.server-test/
